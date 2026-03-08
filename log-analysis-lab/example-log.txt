@@ -1,0 +1,5 @@
+user login successful
+failed password attempt
+user admin login successful
+failed password attempt
+user guest login successful
